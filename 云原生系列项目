@@ -2,8 +2,8 @@ k8s:https://www.qikqiak.com/k8s-book/
 云网关：https://github.com/knative-sandbox/net-kourier
 gitlab ci :https://docs.gitlab.com/ee/ci/
 
-链路追踪：https://cloud.tencent.com/developer/article/1953242
-监控告警：https://zhuanlan.zhihu.com/p/267966193
+链路追踪：SkyWalking  https://cloud.tencent.com/developer/article/1953242
+监控告警： Prometheus  https://zhuanlan.zhihu.com/p/267966193
 可视化大盘：https://blog.csdn.net/weixin_44573207/article/details/116712695 ；
 https://blog.csdn.net/weixin_42322206/article/details/115706787
 
